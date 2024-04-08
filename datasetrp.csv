@@ -1,0 +1,27 @@
+user_id,username,bio
+1,Introduction to Algorithms by CLRS,Chapter 1: The Role of Algorithms in Computing\nChapter 2: Getting Started\n...\nChapter 26: Maximum Flow
+2,Data Science for Beginners,Chapter 1: Introduction to Data Science\nChapter 2: Data Exploration\n...\nChapter 15: Machine Learning Applications
+3,Computer Networks: A Top-Down Approach,Chapter 1: Introduction to Computer Networks\nChapter 2: Application Layer\n...\nChapter 12: Multimedia Networking
+4,Artificial Intelligence: A Modern Approach,"Chapter 1: Introduction\nChapter 2: Intelligent Agents\n...\nChapter 25: AI in Science, Engineering, and Medicine"
+5,Web Development with Django,Chapter 1: Getting Started with Django\nChapter 2: Models and Databases\n...\nChapter 10: Testing and Debugging
+6,Linear Algebra and Its Applications,Chapter 1: Introduction to Vectors\nChapter 2: Matrix Algebra\n...\nChapter 9: Numerical Linear Algebra
+7,Database Management Systems,Chapter 1: Introduction to DBMS\nChapter 2: Database Design\n...\nChapter 15: Big Data and NoSQL Databases
+8,Operating System Concepts,Chapter 1: Introduction to Operating Systems\nChapter 2: System Structures\n...\nChapter 8: Main Memory
+9,Machine Learning Yearning,Chapter 1: Why Machine Learning Strategy\nChapter 2: How to use this Book\n...\nChapter 11: Conclusion
+10,Software Engineering: A Practitioner's Approach,Chapter 1: The Software Process\nChapter 2: Software Engineering Practice\n...\nChapter 8: Design Concepts
+11,Computer Organization and Design,Chapter 1: Introduction\nChapter 2: Computer Evolution and Performance\n...\nChapter 9: Instruction Sets
+12,Introduction to Probability and Statistics,Chapter 1: Probability\nChapter 2: Random Variables and Probability Distributions\n...\nChapter 11: Confidence Intervals
+13,Deep Learning,Chapter 1: Introduction to Deep Learning\nChapter 2: Linear Algebra\n...\nChapter 10: Unsupervised Learning
+14,JavaScript: The Good Parts,Chapter 1: Good Parts\nChapter 2: Grammar\n...\nChapter 8: Beautiful Features
+15,Network Security Essentials,Chapter 1: Introduction to Networking\nChapter 2: Security Policies and Models\n...\nChapter 9: Network Management Security
+16,Computer Graphics: Principles and Practice,Chapter 1: Introduction\nChapter 2: Overview of Computer Graphics\n...\nChapter 15: Interaction
+17,Python Crash Course,Chapter 1: Basics\nChapter 2: Variables and Simple Data Types\n...\nChapter 10: Files and Exceptions
+18,Blockchain Basics,Chapter 1: Introduction to Blockchain\nChapter 2: How Blockchain Works\n...\nChapter 7: Smart Contracts
+19,Introduction to Autonomous Robots,Chapter 1: Introduction\nChapter 2: Kinematics\n...\nChapter 8: Robot Learning
+20,Data Structures and Algorithms in Python,Chapter 1: Python Primer\nChapter 2: Object-Oriented Programming\n...\nChapter 10: Trees and Tree Algorithms
+21,Computer Vision: Algorithms and Applications,Chapter 1: Introduction\nChapter 2: Image Formation\n...\nChapter 12: Recognition
+22,Quantum Computing: A Gentle Introduction,Chapter 1: Introduction\nChapter 2: Quantum Mechanics\n...\nChapter 9: Quantum Algorithms
+23,Introduction to Cyber Security,Chapter 1: Overview of Cyber Security\nChapter 2: Network Security\n...\nChapter 10: Incident Response and Recovery
+24,Artificial Intelligence: Foundations of Computational Agents,Chapter 1: Introduction to Agents\nChapter 2: Problem Solving Agents\n...\nChapter 13: Learning Agents
+25,Hands-On Machine Learning with Scikit-Learn and TensorFlow,Chapter 1: The Machine Learning Landscape\nChapter 2: End-to-End Machine Learning Project\n...\nChapter 14: Recurrent Neural Networks
+26,Computer Forensics: Principles and Practices,Chapter 1: Computer Forensics and Investigations\nChapter 2: Understanding Computer Investigations\n...\nChapter 9: Hard Disks and File Systems Forensics
